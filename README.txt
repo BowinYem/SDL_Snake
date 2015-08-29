@@ -5,4 +5,4 @@ in length. While doing all of this, you need to avoid colliding into yourself (t
 screen. 
 
 - To play the game, go to the "Game" folder and click "Snake.exe"
-- To view the code, go the "Snake" folder
+- To view the code, go to the "Snake" folder
